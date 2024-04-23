@@ -1,0 +1,4 @@
+pronouncing
+markovify
+numpy
+keras
